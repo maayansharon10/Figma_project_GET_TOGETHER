@@ -2,7 +2,7 @@
 Get Together - a final UI project in Figma in INTRODUCTION TO HUMAN COMPUTER INTERACTION course
 
 
-# Intro-to-HTC---UI-PROJECT---GET-TOGETHER
+# Intro to HTC: UI PROJECT - GET-TOGETHER
 Get Together - a final UI project in Figma in INTRODUCTION TO HUMAN COMPUTER INTERACTION course
 
 This project is the joint work of:
