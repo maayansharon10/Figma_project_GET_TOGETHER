@@ -1,4 +1,4 @@
-# Intro_to_HTC_GET_TOGETHER
+# Intro to HTC: GET_TOGETHER
 Get Together - a final UI project in Figma software in INTRODUCTION TO HUMAN COMPUTER INTERACTION course
 
 This project is the joint work of:
