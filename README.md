@@ -1,6 +1,6 @@
 # Intro to HTC: GET_TOGETHER
-Get Together - a final UI project in Figma software in INTRODUCTION TO HUMAN COMPUTER INTERACTION course
-
+Get Together - a final UI project in Figma software in INTRODUCTION TO HUMAN COMPUTER INTERACTION course,
+fall 2019
 This project is the joint work of:
 Maayan Sharon
 Adi Strauss
